@@ -1,1 +1,1 @@
-# OpenCV-Examples
+# OpenCV-Örnekleri
